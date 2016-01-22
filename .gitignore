@@ -23,4 +23,5 @@ primespeed.0
 systype
 uint32.h
 uint64.h
+libprimegen.so
 
