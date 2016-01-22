@@ -1,3 +1,8 @@
+In order to compile the library (libprimegen.so), run:
+make
+./build-library.sh
+
+
 Like any other piece of software (and information generally), primegen
 comes with NO WARRANTY.
 
